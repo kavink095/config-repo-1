@@ -1,0 +1,1 @@
+global.property=This is a common property for all services
